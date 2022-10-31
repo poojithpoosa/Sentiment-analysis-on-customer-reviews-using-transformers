@@ -6,11 +6,6 @@ Any user's comments or reviews on a website or app carry a great deal of weight 
 
 The aim of the project is to analysis the sentiment of the customers on various products of amazon and help customers and businesses to make informed decision. For this task, amazon reviews data is used for sentiment analysis with information gain feature extraction and classification using 2-layer Transformer. The evaluation metrics for the projects are loss and accuracy and precision.
 
-## Objectives of the project.
-
-* Perform a in depth literature review on the sentiment analysis methods and feature extraction methods.
-* Research about various classification and preprocessing techniques used for natural language processing problems.
-* Implement the proposed model and evaluate the performance with other research.
 
 ## Research question.
 * Does the feature selection help in improving performance of the model?
